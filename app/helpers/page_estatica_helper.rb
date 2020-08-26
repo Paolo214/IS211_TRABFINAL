@@ -1,0 +1,2 @@
+module PageEstaticaHelper
+end
